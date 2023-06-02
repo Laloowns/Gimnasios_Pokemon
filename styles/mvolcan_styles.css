@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: black;
+    
+}
+
+h3, h4, p, ul, li {
+    color: white;
+}
+
+.album{
+    width: 300px;
+}
+
+.social{
+    width: 100px;
+}

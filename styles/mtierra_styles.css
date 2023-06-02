@@ -1,0 +1,30 @@
+.container{
+    align-content: center;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+table{
+    width: 700px;
+    height: 200px;
+}
+
+#pokemon{
+    text-decoration: none;
+    color: black;
+}
+
+th {
+    color: white;
+    background-color: blue;
+}
